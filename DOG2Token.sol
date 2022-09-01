@@ -21,3 +21,5 @@ contract Dog2Token is ERC20 {
     }
     
 }
+
+TEST
